@@ -1,6 +1,5 @@
 'use client';
 
-'use client';
 
 import React, { Suspense } from 'react';
 import {LoginForm} from '@/components/loginform/LoginForm'; // move the form logic here
